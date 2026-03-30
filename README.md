@@ -12,7 +12,8 @@ The compilation may give a warning due to an error in the minilibx library (noth
 
 You must then launch the "so_long" executable with a map path. It will then open a window with the game. The terminal will be used to show how many times a player moved.
 
-Example:
+Example: 
+
     ./so_long maps/map1.ber
 
 You can then move using WASD.
@@ -23,8 +24,7 @@ Client will write "Bravo !" if the game ended.
 
 # Resources
 
-Links:
-https://harm-smits.github.io/42docs/
+Links: https://harm-smits.github.io/42docs/
 
 AI was used to explain how the X11 events works.
 It was NOT used to give full fletched answers or to generate code.
