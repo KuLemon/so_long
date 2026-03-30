@@ -32,11 +32,11 @@ It was NOT used to give full fletched answers or to generate code.
 # Map Instructions
 
 The map file is composed of 5 characters:
-0 for an empty space,
-1 for a wall,
-C for a collectible,
-E for a map exit,
-P for the player's starting position.
+- 0 for an empty space,
+- 1 for a wall,
+- C for a collectible,
+- E for a map exit,
+- P for the player's starting position.
 
 It should only contain 1 exit, 1 starting poisition and at least 1 collectible.
 
